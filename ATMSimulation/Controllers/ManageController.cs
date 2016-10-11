@@ -10,6 +10,7 @@ using ATMSimulation.Models;
 
 namespace ATMSimulation.Controllers
 {
+
     [Authorize]
     public class ManageController : Controller
     {
